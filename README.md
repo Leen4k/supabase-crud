@@ -1,21 +1,4 @@
-<a href="https://demo-nextjs-with-supabase.vercel.app/">
-  <img alt="Next.js 13 and app template Router-ready Supabase starter kit." src="https://demo-nextjs-with-supabase.vercel.app/opengraph-image.png">
-  <h1 align="center">Supabase starter kit</h1>
-</a>
 
-<p align="center">
- This starter configures Supabase Auth to use cookies, making the user's session available throughout the entire Next.js app - Client Components, Server Components, Route Handlers, Server Actions and Middleware.
-</p>
-
-<p align="center">
-  <a href="#features"><strong>Features</strong></a> ·
-  <a href="#demo"><strong>Demo</strong></a> ·
-  <a href="#deploy-to-vercel"><strong>Deploy to Vercel</strong></a> ·
-  <a href="#clone-and-run-locally"><strong>Clone and run locally</strong></a> ·
-  <a href="#how-to-use"><strong>How to use</strong></a> ·
-  <a href="#feedback-and-issues"><strong>Feedback and issues</strong></a>
-</p>
-<br/>
 
 ## Features
 
